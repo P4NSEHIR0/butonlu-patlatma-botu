@@ -1,0 +1,19 @@
+{
+  "name": "DiscordButonluPatlatmaBotu",
+  "version": "1.0.0",
+  "description": "Discord Butonlu Patlatma Botu",
+  "main": "arda.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "KTRİAAAAAAAAAAAAAAAAAA",
+  "license": "MIT",
+  "dependencies": {
+    "captcha-canvas": "^3.1.0",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
+}
